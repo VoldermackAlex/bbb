@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 import asyncio
 BOT_TOKEN = "7639730828:AAFWp5ARoBc-P17nFURj1tcZrt4W6YfBKp8"
-ADMIN_ID = 5981396016
+ADMIN_ID = 191361082
 MOSCOW_TZ = pytz.timezone("Europe/Moscow")
 START, CONTACT_REASON, ADMIN_PANEL, CHAT = range(4)
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(message)s")
